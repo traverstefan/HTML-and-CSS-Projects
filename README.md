@@ -1,6 +1,6 @@
 # HTML-and-CSS-Projects
 ## Introduction
-This repository is for all HTML- and CSS-related coursework for the Tech Academy.
+This repository is for my projects in the Tech Academy's HTML & CSS Course, which is part of the curriculum for the Cybersecurity Course.  Included below are several key projects that incorporate much of what has been learned so far.  While I've gotten a lot out of all of the courses taught so far, this one stands out as a favorite!
 
 ## Projects
 [Space Station Project:](https://github.com/traverstefan/HTML-and-CSS-Projects/tree/main/Basic_HTML_and_CSS/Academy%20Cinemas%20Project) This project incorporates         HTML and CSS to create a website for a space travel agency.
